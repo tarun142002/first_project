@@ -29,15 +29,15 @@ p{
 img.top_cloud
 {
     position: absolute;
-    right: 300px;
-    top: 50px   ;
+    right: 25%;
+    top: 10%;
 }
 
 img.bot_cloud
 {
     position: absolute;
-    left: 300px;
-    bottom: 300px;
+    left: 24%;
+    bottom: 46%;
 }
 div.profile
 {
